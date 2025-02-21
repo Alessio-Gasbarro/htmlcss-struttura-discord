@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Lato';
+}
+/* TUTTA SEZIONE HEADER */
+header{
+    background-color: lightskyblue;
+    padding: 15px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    display: inline-block;
+    margin: 0px 10px;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.header-side{
+    width: 20%;
+    border: 1px dashed black;
+}
+
+.header-center{
+    width: 60%;
+    border: 1px dashed black;
+}
+
+.header-center-menu{
+    text-align: center;
+}
+
+.word-logo{
+    text-align: left;
+    margin-left: 5px;
+}
+
+.word-login{
+    text-align: right;
+    margin-right: 5px;
+}
+
+.flex-grow{
+    flex-grow: 1;
+}
+
+.container{
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+.bg-gold{
+    background-color: goldenrod;
+}
+
+/*-- SEZIONE MAIN --*/
+
+.content{
+    height: 300px;
+    border: 1px dashed black;
+    margin: 20px 0;
+}
