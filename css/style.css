@@ -50,6 +50,10 @@ li{
     margin-right: 5px;
 }
 
+.thicc{
+    height: 500px;
+}
+
 .flex-grow{
     flex-grow: 1;
 }
@@ -63,7 +67,7 @@ li{
 /*-- SEZIONE MAIN --*/
 
 .content{
-    height: 300px;
+    height: 350px;
     border: 1px dashed black;
     margin: 20px 0;
 }
@@ -112,6 +116,11 @@ li{
     justify-content: space-between;
 }
 
+.word{
+    text-align: center;
+    padding-top: 2px;
+}
+
 /*-- ALL BG COLORS --*/
 
 .bg-gold{
@@ -139,7 +148,7 @@ li{
 }
 
 .bg-darkgray{
-    background-color: #5555;
+    background-color: #2b2a2a;
 }
 
 .bg-rose{
