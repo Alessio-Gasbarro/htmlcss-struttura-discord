@@ -59,9 +59,6 @@ li{
     margin: 0 auto;
 }
 
-.bg-gold{
-    background-color: goldenrod;
-}
 
 /*-- SEZIONE MAIN --*/
 
@@ -69,4 +66,64 @@ li{
     height: 300px;
     border: 1px dashed black;
     margin: 20px 0;
+}
+
+.small-content{
+    height: 300px;
+    border: 1px dashed;
+}
+
+.col-home{
+    width: 70%;
+    margin: auto;
+}
+
+.col-30{
+    width: 30%;
+}
+
+.col-40{
+    width: 40%;
+}
+
+.col-60{
+    width: 60%;
+}
+
+.col-100{
+    width: 100%;
+}
+
+/*-- ALL BG COLORS --*/
+
+.bg-gold{
+    background-color: goldenrod;
+}
+
+.bg-blue{
+    background-color: darkblue;
+}
+
+.bg-pink{
+    background-color: pink;
+}
+
+.bg-gray{
+    background-color: lightgray;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.bg-darkgray{
+    background-color: #5555;
+}
+
+.bg-rose{
+    background-color: palevioletred;
+}
+
+.bg-darkcyan{
+    background-color: darkcyan;
 }
