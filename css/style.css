@@ -50,10 +50,6 @@ li{
     margin-right: 5px;
 }
 
-.thicc{
-    height: 500px;
-}
-
 .flex-grow{
     flex-grow: 1;
 }
@@ -63,18 +59,21 @@ li{
     margin: 0 auto;
 }
 
-
 /*-- SEZIONE MAIN --*/
 
 .content{
-    height: 350px;
+    height: 360px;
     border: 1px dashed black;
     margin: 20px 0;
 }
 
 .small-content{
-    height: 300px;
-    border: 1px dashed;
+    height: 360px;
+    border: 1px dashed black;
+}
+
+.thicc{
+    height: 650px;
 }
 
 .col-home{
