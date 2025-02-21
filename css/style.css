@@ -94,10 +94,32 @@ li{
     width: 100%;
 }
 
+/*-- FOOTER --*/
+
+.foot{
+    height: 80px;
+    border: 1px solid #000;
+    margin-top: 10px;
+}
+
+.foot-btn{
+    width: 100px;
+    border: 2px dashed #000;
+    margin: 25px 0;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
 /*-- ALL BG COLORS --*/
 
 .bg-gold{
     background-color: goldenrod;
+}
+
+.bg-lightblue{
+    background-color: blue;
 }
 
 .bg-blue{
@@ -126,4 +148,8 @@ li{
 
 .bg-darkcyan{
     background-color: darkcyan;
+}
+
+.bg-aqua{
+    background-color: aquamarine;
 }
